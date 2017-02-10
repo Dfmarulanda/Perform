@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = "Perform"
-  s.version = "1.0.0"
+  s.version = "2.0.0"
   s.summary = "Easy dependency injection for storyboard segues."
 
   s.homepage = "https://github.com/thoughtbot/Perform"
